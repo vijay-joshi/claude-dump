@@ -1,3 +1,11 @@
+## Playwright
+
+```sh
+claude mcp add playwright npx @playwright/mcp@latest
+```
+
+## Context7
+
 <summary><b>Install in Claude Code</b></summary>
 
 Run this command. See [Claude Code MCP docs](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/tutorials#set-up-model-context-protocol-mcp) for more info.
