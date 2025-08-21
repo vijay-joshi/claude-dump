@@ -1,3 +1,9 @@
+## Serena
+
+```
+ claude mcp add-json "serena" '{"command":"uvx","args":["--from","git+https://github.com/oraios/serena","serena-mcp-server"]}'
+```
+
 ## Playwright
 
 ```sh
