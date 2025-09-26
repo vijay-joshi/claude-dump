@@ -1,5 +1,11 @@
 # Useful MCP servers
 
+## figma MCP
+
+```
+claude mcp add --transport http figma-dev-mode-mcp-server http://127.0.0.1:3845/mcp
+```
+
 ## JIRA MCP
 
 ```
