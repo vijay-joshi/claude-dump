@@ -2,7 +2,9 @@
 
 ## JIRA MCP
 
-```claude mcp add --transport sse atlassian https://mcp.atlassian.com/v1/sse```
+```
+claude mcp add --transport sse atlassian https://mcp.atlassian.com/v1/sse
+```
 
 
 ## Serena
